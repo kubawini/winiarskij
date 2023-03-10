@@ -37,5 +37,6 @@ namespace PwMini.IO_Tutorial.CalculatorLibrary
             }
             return sum;
         }
+        // Pipeline test
     }
 }
